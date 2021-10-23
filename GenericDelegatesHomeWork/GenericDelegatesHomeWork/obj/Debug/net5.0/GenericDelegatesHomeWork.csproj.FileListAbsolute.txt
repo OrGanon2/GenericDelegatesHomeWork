@@ -1,0 +1,16 @@
+C:\Users\Or Ganon\source\repos\GenericDelegatesHomeWork\GenericDelegatesHomeWork\bin\Debug\net5.0\GenericDelegatesHomeWork.exe
+C:\Users\Or Ganon\source\repos\GenericDelegatesHomeWork\GenericDelegatesHomeWork\bin\Debug\net5.0\GenericDelegatesHomeWork.deps.json
+C:\Users\Or Ganon\source\repos\GenericDelegatesHomeWork\GenericDelegatesHomeWork\bin\Debug\net5.0\GenericDelegatesHomeWork.runtimeconfig.json
+C:\Users\Or Ganon\source\repos\GenericDelegatesHomeWork\GenericDelegatesHomeWork\bin\Debug\net5.0\GenericDelegatesHomeWork.runtimeconfig.dev.json
+C:\Users\Or Ganon\source\repos\GenericDelegatesHomeWork\GenericDelegatesHomeWork\bin\Debug\net5.0\GenericDelegatesHomeWork.dll
+C:\Users\Or Ganon\source\repos\GenericDelegatesHomeWork\GenericDelegatesHomeWork\bin\Debug\net5.0\ref\GenericDelegatesHomeWork.dll
+C:\Users\Or Ganon\source\repos\GenericDelegatesHomeWork\GenericDelegatesHomeWork\bin\Debug\net5.0\GenericDelegatesHomeWork.pdb
+C:\Users\Or Ganon\source\repos\GenericDelegatesHomeWork\GenericDelegatesHomeWork\obj\Debug\net5.0\GenericDelegatesHomeWork.csproj.AssemblyReference.cache
+C:\Users\Or Ganon\source\repos\GenericDelegatesHomeWork\GenericDelegatesHomeWork\obj\Debug\net5.0\GenericDelegatesHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Or Ganon\source\repos\GenericDelegatesHomeWork\GenericDelegatesHomeWork\obj\Debug\net5.0\GenericDelegatesHomeWork.AssemblyInfoInputs.cache
+C:\Users\Or Ganon\source\repos\GenericDelegatesHomeWork\GenericDelegatesHomeWork\obj\Debug\net5.0\GenericDelegatesHomeWork.AssemblyInfo.cs
+C:\Users\Or Ganon\source\repos\GenericDelegatesHomeWork\GenericDelegatesHomeWork\obj\Debug\net5.0\GenericDelegatesHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Or Ganon\source\repos\GenericDelegatesHomeWork\GenericDelegatesHomeWork\obj\Debug\net5.0\GenericDelegatesHomeWork.dll
+C:\Users\Or Ganon\source\repos\GenericDelegatesHomeWork\GenericDelegatesHomeWork\obj\Debug\net5.0\ref\GenericDelegatesHomeWork.dll
+C:\Users\Or Ganon\source\repos\GenericDelegatesHomeWork\GenericDelegatesHomeWork\obj\Debug\net5.0\GenericDelegatesHomeWork.pdb
+C:\Users\Or Ganon\source\repos\GenericDelegatesHomeWork\GenericDelegatesHomeWork\obj\Debug\net5.0\GenericDelegatesHomeWork.genruntimeconfig.cache
